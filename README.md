@@ -1,4 +1,4 @@
-# wasteagram
+# Social Media Mobile App
 
 Created a social media app that creates and stores social media posts using Flutter and Google Cloud Firestore.
 Work in progress - plan to add more features to the app as I progress.
